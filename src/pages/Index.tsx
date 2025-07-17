@@ -134,8 +134,8 @@ export default function Index() {
                     <div className="text-sm">Единиц техники Brokk</div>
                   </div>
                   <div>
-                    <div className="text-3xl font-bold text-orange-400">24/7</div>
-                    <div className="text-sm">Круглосуточная работа</div>
+                    <div className="text-3xl font-bold text-orange-400">8 ч</div>
+                    <div className="text-sm">Минимальная продолжительность рабочей смены</div>
                   </div>
                 </div>
               </div>
