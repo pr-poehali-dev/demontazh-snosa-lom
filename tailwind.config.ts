@@ -61,6 +61,25 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Цвета для демонтажа
+				orange: {
+					100: '#FFF4E6',
+					400: '#FB923C',
+					500: '#FF6B35',
+					600: '#EA580C'
+				},
+				blue: {
+					100: '#DBEAFE',
+					400: '#60A5FA',
+					600: '#2563EB',
+					800: '#1E40AF',
+					900: '#2C3E50'
+				},
+				yellow: {
+					100: '#FEF3C7',
+					400: '#FBBF24',
+					600: '#F39C12'
 				}
 			},
 			borderRadius: {
