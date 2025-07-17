@@ -106,7 +106,7 @@ export default function Index() {
                 </div>
                 <div className="flex items-center">
                   <Icon name="CheckCircle" className="h-6 w-6 text-green-500 mr-3" />
-                  <span></span>
+                  <span>Опыт ведения сложных работ</span>
                 </div>
                 <div className="flex items-center">
                   <Icon name="CheckCircle" className="h-6 w-6 text-green-500 mr-3" />
