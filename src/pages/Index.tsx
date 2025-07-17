@@ -31,7 +31,7 @@ export default function Index() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-5xl font-bold mb-6 leading-tight text-amber-50">Демонтаж любой сложности с использованием роботизированных машин Brokk</h1>
+              <h1 className="text-5xl font-bold mb-6 leading-tight text-amber-50 text-left">Демонтаж любой сложности с использованием роботизированных машин Brokk</h1>
               <p className="text-xl mb-8 text-blue-100">
                 Современные технологии для безопасного и эффективного демонтажа. 
                 Работаем с промышленными объектами, жилыми зданиями и сложными конструкциями.
@@ -41,10 +41,7 @@ export default function Index() {
                   <Icon name="Phone" className="mr-2 h-5 w-5" />
                   Заказать звонок
                 </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-900">
-                  <Icon name="Calculator" className="mr-2 h-5 w-5" />
-                  Рассчитать стоимость
-                </Button>
+                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-900">написать в WA</Button>
               </div>
             </div>
             <div className="relative">
