@@ -106,7 +106,7 @@ export default function Index() {
                 </div>
                 <div className="flex items-center">
                   <Icon name="CheckCircle" className="h-6 w-6 text-green-500 mr-3" />
-                  <span>Собственный парк роботизированной техники</span>
+                  <span></span>
                 </div>
                 <div className="flex items-center">
                   <Icon name="CheckCircle" className="h-6 w-6 text-green-500 mr-3" />
@@ -130,7 +130,7 @@ export default function Index() {
                     <div className="text-sm">Лет опыта</div>
                   </div>
                   <div>
-                    <div className="text-3xl font-bold text-orange-400">10</div>
+                    <div className="text-3xl font-bold text-orange-400"></div>
                     <div className="text-sm">Единиц техники Brokk</div>
                   </div>
                   <div>
@@ -256,7 +256,7 @@ export default function Index() {
                 <div className="flex items-center">
                   <Icon name="Phone" className="h-6 w-6 text-orange-400 mr-4" />
                   <div>
-                    <div className="font-semibold">+7 (495) 123-45-67</div>
+                    <div className="font-semibold">+7 (995) 600-88-60</div>
                     <div className="text-blue-100">Круглосуточно</div>
                   </div>
                 </div>
