@@ -27,14 +27,11 @@ export default function Index() {
       </header>
 
       {/* Hero Section */}
-      <section className="from-blue-900 to-blue-800 text-white py-20 bg-amber-400">
+      <section className="from-blue-900 to-blue-800 text-white py-20 bg-zinc-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Демонтаж любой сложности с роботизированными машинами
-                <span className="text-orange-400"> Brokk</span>
-              </h1>
+              <h1 className="text-5xl font-bold mb-6 leading-tight text-amber-50">Демонтаж любой сложности с использованием роботизированных машин Brokk</h1>
               <p className="text-xl mb-8 text-blue-100">
                 Современные технологии для безопасного и эффективного демонтажа. 
                 Работаем с промышленными объектами, жилыми зданиями и сложными конструкциями.
